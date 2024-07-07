@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+  }
+  
+  header, main, footer {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  header {
+    background-color: #f8f9fa;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+  }
+  
