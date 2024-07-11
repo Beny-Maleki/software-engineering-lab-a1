@@ -6,7 +6,7 @@
 
 نکات مربوط به انجام آزمایش:
 
--**بخش Github actions & pages**:برای استقرار فایل html استاتیک خود بر روی GitHub pages ابتدا فایل deploy.yml را به مسیر .github/workfloاضافه می‌کنیم. پس از آن فایل ما در آدرسی که در منوی settings->pages آمده است serve می‌شود
+-**بخش Github actions & pages**:برای استقرار فایل html استاتیک خود بر روی GitHub pages ابتدا فایل deploy.yml را به مسیر .github/workfloاضافه می‌کنیم. پس از آن فایل ما در آدرسی که در منوی settings->pages آمده است serve می‌شود.
 
 -**بخش Making a ruleset**:برای اضافه کردن rule  مربوط به بستن کامیت مستقیم به main، از طریق settings وارد منوی rules می‌شویم و یک ruleset جدید برای default branch درست می‌کنیم و تیک‌های مربوط به بستن دسترسی‌ها به آن را می‌زنیم.
 
