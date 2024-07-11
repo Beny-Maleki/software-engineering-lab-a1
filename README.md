@@ -79,3 +79,9 @@ object model
 https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 
 
+۷. 
+در گیت به طور کلی دو مدل مخزن دارد:
+- مخزن remote: که روی یک سرور میزبانی می‌شود (که می‌تواند از طریق اینترنت یاشبکه داخلی در دسترس باشد) و بین اعضای مختلف تیم به اشتراک گذاشته می‌شود.
+- مخزن local: که روی کامپیوتر شخصی هر نفر از اعضای تیم میزبانی می‌شود و برای استفاده همان نفر است.
+
+https://nulab.com/learn/software-development/git-tutorial/git-basics/repositories/remote-repositories-vs-local-repositories/
